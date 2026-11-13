@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Quản Lý Công Việc</string>
+    <string name="title_main">Danh sách công việc</string>
+    <string name="title_add_task">Thêm công việc mới</string>
+    <string name="title_edit_task">Chỉnh sửa công việc</string>
+
+    <!-- Stats -->
+    <string name="stat_total">Tổng số</string>
+    <string name="stat_completed">Đã xong</string>
+    <string name="stat_pending">Chưa xong</string>
+
+    <!-- Filters -->
+    <string name="filter_status_all">Tất cả trạng thái</string>
+    <string name="filter_status_pending">Chưa thực hiện</string>
+    <string name="filter_status_completed">Đã hoàn thành</string>
+    <string name="filter_priority_all">Tất cả mức ưu tiên</string>
+
+    <!-- Priority -->
+    <string name="priority_high">Cao</string>
+    <string name="priority_medium">Trung bình</string>
+    <string name="priority_low">Thấp</string>
+
+    <!-- Fields & Labels -->
+    <string name="label_task_title">Tên công việc (*)</string>
+    <string name="label_task_desc">Mô tả công việc</string>
+    <string name="label_due_date">Ngày hết hạn</string>
+    <string name="label_priority">Mức độ ưu tiên</string>
+    <string name="label_status">Trạng thái hoàn thành</string>
+    <string name="hint_search">Tìm kiếm công việc theo tên...</string>
+    <string name="hint_title">Nhập tên công việc...</string>
+    <string name="hint_desc">Nhập mô tả chi tiết...</string>
+    <string name="hint_due_date">Chọn ngày hết hạn</string>
+
+    <!-- Buttons -->
+    <string name="btn_save">Lưu công việc</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_add">Thêm mới</string>
+    <string name="btn_delete">Xóa</string>
+
+    <!-- Validation & Messages -->
+    <string name="err_empty_title">Tên công việc không được bỏ trống!</string>
+    <string name="msg_task_saved">Đã lưu công việc thành công!</string>
+    <string name="msg_task_deleted">Đã xóa công việc!</string>
+    <string name="msg_confirm_delete">Bạn có chắc chắn muốn xóa công việc này không?</string>
+    <string name="confirm_title">Xác nhận xóa</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="empty_task_list">Chưa có công việc nào!</string>
+</resources>
